@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Jefferson Santos
 
 🎯 Em transição de carreira para a área de tecnologia, cursando Análise e Desenvolvimento de Sistemas  
-💻 Estudando desenvolvimento web com foco em JavaScript e Python  
+💻 Estudando desenvolvimento web com foco em front-end, aprendendo HTML, CSS, JavaScript e boas práticas de interface 
 📚 Apaixonado por aprendizado contínuo e resolução de problemas  
 🚀 Buscando minha primeira oportunidade como desenvolvedor
 
