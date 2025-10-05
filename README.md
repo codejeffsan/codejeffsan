@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá, eu sou Jefferson Santos
 
-<!--
-**codejeffsan/codejeffsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Em transição de carreira para a área de tecnologia, cursando Análise e Desenvolvimento de Sistemas  
+💻 Estudando desenvolvimento web com foco em JavaScript e Python  
+📚 Apaixonado por aprendizado contínuo e resolução de problemas  
+🚀 Buscando minha primeira oportunidade como desenvolvedor
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias que estou aprendendo
+- HTML, CSS, JavaScript
+- Python, Git, GitHub
+- VS Code, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Objetivo
+Construir projetos práticos, colaborar com a comunidade e crescer como desenvolvedor.
+
+## 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/jefferson-santos-4539a2256/)
+- Email: jeffersonjffe@gmail.com
