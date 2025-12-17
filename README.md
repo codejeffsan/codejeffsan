@@ -10,8 +10,6 @@
 
 ## 🛠️ Tecnologias que estou aprendendo
 - HTML, CSS, JavaScript
-- Python, Git, GitHub
-- VS Code, Figma
 
 ## 📈 Objetivo
 Construir projetos práticos, colaborar com a comunidade e crescer como desenvolvedor.
